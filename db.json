@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "An",
+      "id": "GE2JFGw8"
+    },
+    {
+      "name": "My",
+      "id": "aVafgvub",
+      "email": "Valencia@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "name": "Bigbang_0nline",
+      "phone": "900799",
+      "id": "HAj7dsTC"
+    }
+  ]
+}
